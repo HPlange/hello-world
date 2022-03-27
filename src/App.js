@@ -3,7 +3,7 @@ import HelloWorld from './coponents/hello-world';
 function App() {
   return (
     <div>
-      <HelloWorld />     
+      <HelloWorld name={'World'} />     
     </div>
   );
 }
